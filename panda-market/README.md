@@ -8,7 +8,7 @@
 
 - [x]  PC사이즈만 고려해 주어진 디자인으로 구현합니다.
 
-- [x]  HTML, CSS 파일을 [Netlify](https://www.netlify.com/)로 배포해 주세요. (참고: https://www.codeit.kr/learn/5309) :: https://panda-market-by-kipid.netlify.app/
+- [x]  HTML, CSS 파일을 [Netlify](https://www.netlify.com/)로 배포해 주세요. (참고: https://www.codeit.kr/learn/5309) :: https://66b44a18e45c668c2c5da085--musical-piroshki-ce55b8.netlify.app/
 
 - [x]  랜딩 페이지의 url path는 루트(‘/’)로 설정합니다.
 
@@ -42,9 +42,9 @@
 
 ### 공통
 
-- [x] reset.css를 설정해 주세요.
+- [] reset.css를 설정해 주세요.
 
-- [x] 사용자의 브라우저 설정에 따라 기본 폰트 크기 설정이 변화함에 따라서 페이지의 요소 간 간격, 요소의 크기, font-size 등 모든 크기와 관련된 값이 크고 작아지도록 설정해 주세요.
+- [] 사용자의 브라우저 설정에 따라 기본 폰트 크기 설정이 변화함에 따라서 페이지의 요소 간 간격, 요소의 크기, font-size 등 모든 크기와 관련된 값이 크고 작아지도록 설정해 주세요.
 
 
 
@@ -55,7 +55,9 @@
 - [x]  README.md 파일을 작성해 주세요.
 
 - [x] 마크다운 언어를 숙지하여 작성해 주세요.
+
 - [x] 내용은 자유롭게 작성해 주세요.
+      
 - [x]  본인 브랜치(ex)part1-홍길동)에 스프린트 미션을 업로드해 주세요.
 
 - [x]  적절한 커밋 메시지를 남겨 주세요.
@@ -75,7 +77,7 @@
 
 - [x]  Git 활용 과정에서 유닉스 커맨드를 활용해 주세요.
 
-- [x]  HTML, CSS 파일을 Netlify로 배포합니다. (참고: https://www.codeit.kr/learn/5309) :: https://panda-market-by-kipid.netlify.app/
+- [x]  HTML, CSS 파일을 Netlify로 배포합니다. (참고: https://www.codeit.kr/learn/5309) :: https://66b44a18e45c668c2c5da085--musical-piroshki-ce55b8.netlify.app/
 
 
 
@@ -105,8 +107,8 @@
 
 ### 공통
 
-- [x] palette에 있는 color값들을 css 변수로 등록해서 사용합니다.
-- [x] 구글 애널리틱스로 방문자 수 확인하기 할 수 있도록 설정합니다.
+- [] palette에 있는 color값들을 css 변수로 등록해서 사용합니다.
+- [] 구글 애널리틱스로 방문자 수 확인하기 할 수 있도록 설정합니다.
 
 
 
